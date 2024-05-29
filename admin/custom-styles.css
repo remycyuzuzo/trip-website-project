@@ -1,0 +1,13 @@
+table tr td * {
+  display: inline !important;
+}
+table.projects tr td.actions a {
+  opacity: 0;
+  transition: all 0.03s ease-in;
+}
+table.projects tr:hover td.actions a {
+  opacity: 1;
+}
+small {
+  color: #7a7c62;
+}
