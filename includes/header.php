@@ -1,5 +1,5 @@
 <?php
-include "includes/session_check.php"; // for testing only
+// include "includes/session_check.php"; // for testing only
 
 include "includes/db_config.php";
 ?>
@@ -28,16 +28,16 @@ include "includes/db_config.php";
                             <a class="dropdown-item nav-link" href="/who-we-are.php"> About Organization</a>
                             <a class="dropdown-item nav-link" href="/stracture.php"> Organization stracture</a>
                             <a class="dropdown-item nav-link" href="media/depliant.pdf" target="_blank"> TRIP Depliant</a>
-                            <a class="dropdown-item nav-link" href="/article.php?article_id=14" >Certificate of Legal Personality</a>
-                            
+                            <a class="dropdown-item nav-link" href="/article.php?article_id=14">Certificate of Legal Personality</a>
+
                             <a class="dropdown-item nav-link" href="/members.php"> Organization Board Members</a>
-                            
+
                             <a class="dropdown-item nav-link" href="/our-impact"> Our Impact</a>
                         </div>
                     </li>
                     <!--intro video-->
-                    
-                     <li class="nav-item dropdown">
+
+                    <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                             Introduction Videos <i class="fas fa-chevron-down"></i>
                         </a>
@@ -45,7 +45,7 @@ include "includes/db_config.php";
                             <a class="dropdown-item nav-link" href="/video.php"> English Version</a>
                         </div>
                     </li>
-                    
+
                     <!--Intro video-->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
