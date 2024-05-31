@@ -94,11 +94,10 @@ session_start();
             <div class="row bg-white">
                 <div class="col-md-8 p-md-0 bg-white">
                     <div class="p-md-5 h-100 d-flex flex-column justify-content-center">
-                        <h3 data-aos="fade-up">Together we can contribute to rural development</h3>
-                        <p data-aos="fade-up" data-aos-offset="0">As of today, most of the Rwandan population is still living in rural areas, many of them living in poor condition.</p>
+                        <h3 data-aos="fade-up">Together we can contribute to sustainable rural development</h3>
+                        <p data-aos="fade-up" data-aos-offset="0">According to the results from the fifth Population and Housing Census (PHC) conducted in 2022 Rwanda’s population was 13,246,394 and 72.1% of them are still living in rural areas; many of them living in poor conditions. The Government of Rwanda in partnership with different development partners are implementing different initiatives to promote rural development </p>
                         <p data-aos="fade-up" data-aos-offset="0">
-                            <strong>TRIP</strong> is committed to fight poverty, ensure Human Security in rural areas and promote inclusive community development which includes several processes based on
-                            <b>Community participation</b>, <b>Cooperative management</b>, <b>Natural resource protection</b> and <b>Market-oriented farming</b>
+                            <strong>TRIP NGO</strong>, is committed to fight against poverty and ensure decent life. It ensures Human Security in rural areas and promotes inclusive community development mostly based on families and <b>Community self-resilience and cooperative development</b> , <b>Education and family well being</b>, <b>climate change action and environment protection</b> and <b>Market-oriented farming</b>.
                         </p>
                         <p data-aos="fade-up" data-aos-offset="0"><a href="/about/who-we-are" class="learn-more">learn more <i class="fas fa-arrow-alt-circle-right"></i></a></p>
                     </div>
@@ -112,7 +111,7 @@ session_start();
     <section id="objective" data-aos="fade-up">
         <div class="container">
             <h2 class="main-title">WHAT WE DO</h2>
-            <h3 class="mb-5">Our objective is to make contribution in improvement of socio-economic conditions of people in the intervention zone. </h3>
+            <h3 class="mb-5">Our main objective is to contribute to the improvement of socio-economic conditions of people in the intervention zone.</h3>
             <div class="row">
                 <div class="col-md-4 col-sm-6 mb-3" data-aos="zoom-in">
                     <div class="objective h-100 pb-3 d-flex flex-column bg-light">
@@ -134,7 +133,7 @@ session_start();
                         </div>
                         <div class="desc d-flex flex-column justify-content-between px-3">
                             <h4 class="title">
-                                To promote the local, national and regional market in order to generate monetary income at the household level of the target groups
+                                To promote the local, national and regional market in order to generate monetary income at the household level of the target groups.
                             </h4>
                             <a href="/what-we-do" class="learn-more">learn more <i class="fas fa-arrow-alt-circle-right"></i></a>
                         </div>
@@ -147,7 +146,7 @@ session_start();
                         </div>
                         <div class="desc  d-flex flex-column justify-content-between px-3">
                             <h4 class="title">
-                                To introduce new approaches in order to support the community initiatives in education sector
+                                To introduce new approaches in order to support the community initiatives in social and governance pillars especially in education sector
                             </h4>
                             <a href="/what-we-do" class="learn-more">learn more <i class="fas fa-arrow-alt-circle-right"></i></a>
                         </div>
@@ -178,7 +177,9 @@ session_start();
                 Our Projects
             </h2>
             <h3>TRIP supports Modern Agriculture</h3>
-            <p class="text-justify">The economy of Rwanda is more based on agriculture. Because of the high rate of natural growth of its population, lands became insufficient for extensive agriculture. Researches show that the mean arable land for household is about ¼ Ha. For this reason, farmers are encouraged to do professional farming which gives sufficient and market oriented production.</p>
+            <p class="text-justify">The current economy of Rwanda is based mostly on agriculture and its value chains. The agriculture sector has remained pivotal in improving the livelihoods of Rwandans and sustaining the country’s economy. The agricultural sector currently accounts for 25% of the national Gross Domestic Product (GDP).</p>
+            <p class="text-justify">Rwanda’s agriculture sector has enjoyed an annual average growth of 5% over the last fifteen years, while the country’s GDP per capita per year increased from US$ 441 in 2007 to US$1,004 in 2022</p>
+            <p class="text-justify">Because of its high rate of demography population (2.3% over the last ten years, lands became insufficient for extensive agriculture. Researches show that the mean arable land for households is about ¼ Ha. For this reason, farmers are encouraged to practice Modern and professional and climate resilient farming which gives living and market production. The Comprehensive Food Security and Vulnerability and Nutrition Analysis Survey (CFSVA 2021) revealed that 20.6% of our population faces food insecurity, and although there has been a decrease in stunting rates from 34.9 % in 2018 to 32.4 % in 2021, it remains a concern.</p>
             <div class="row align-items-center mb-3" data-aos="fade-up">
                 <div class="col-md-6 mb-3">
                     <?php
@@ -197,8 +198,8 @@ session_start();
                 <div class="col-md-6 mb-3">
                     <h4><?= $project_data['project_name'][0] ?></h4>
                     <p>
-                        Banana has carried significant importance to Rwanda’s dietary for a long time now. An average Rwandan consumes about 227 kilogram per year (RAB, 2017). Apart from the increasing demand at the household level, demand has also been coming from processing local factories.</p>
-                    <p>Bananas provides food as well as desert, beer, fertilizer, wine, beautification of the area and protect environment (...)</p>
+                        Banana has carried significant importance to Rwanda’s diet for a long time now. An average Rwandan consumes about 227 kilograms per year (RAB, 2017). Apart from the increasing demand at the household level, demand has also been coming from processing local factories.
+                    <p>Bananas provide food as well as desert, beer, fertilizer, wine, beautification of the area and protection of the environment (...)</p>
                     <p><a href="./projects/<?= str_replace(' ', '-', strtolower($project_data['project_name'][0])) ?>" class="learn-more">read more</a></p>
                 </div>
             </div>
@@ -209,9 +210,9 @@ session_start();
                 <div class="col-md-6 mb-3">
                     <h4><?= $project_data['project_name'][1] ?></h4>
                     <p>
-                        Pig production or hog farming is a form of livestock keeping that does not necessarily require access to agricultural land and has therefore gained importance in the growing.
+                        Pig production or hog farming is a farm of livestock keeping that does not necessarily require access to agricultural land and has therefore gained importance in the growing.
                     </p>
-                    <p>Targeted people benefits financially from pig farming, it helps them to develop themselves (...)</p>
+                    <p>Targeted people benefit financially from pig farming, it helps them to develop themselves (...)</p>
                     <p><a href="/projects/<?= str_replace(' ', '-', strtolower($project_data['project_name'][1])) ?>" class="learn-more">read more</a></p>
 
                 </div>

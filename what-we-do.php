@@ -51,7 +51,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-md-10">
                         <p class="text-center text-description pt-3">
-                            <span class="text-success">TRIP organization</span> contributes to the improvement of the socio-economic conditions of the population in its intervention zones. The organization focuses on overall development of people living in rural areas by helping them to overcome poverty and all of its consequences.
+                            <span class="text-success">TRIP organization</span> contributes to the holistic development of citizens living in its intervention zones, by helping them to eradicate poverty and all of its consequences.
                         </p>
                     </div>
                 </div>
