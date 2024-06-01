@@ -1,10 +1,10 @@
 <?php
-// $host = "localhost";
-// $user = "tripteri_user";
-// $pass = "24177";
 $host = "localhost";
-$user = "root";
-$pass = "";
+$user = "tripteri_user";
+$pass = "24177";
+// $host = "localhost";
+// $user = "root";
+// $pass = "";
 
 $db_name = "tripteri_data";
 
