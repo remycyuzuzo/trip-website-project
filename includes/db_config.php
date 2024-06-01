@@ -1,10 +1,17 @@
 <?php
-$host = "localhost";
-$user = "tripteri_user";
-$pass = "24177";
-// $host = "localhost";
-// $user = "root";
-// $pass = "";
+include '../config.php';
+
+if ($root === "/home2/tripterimbere/public_html/") {
+    $host = "localhost";
+    $user = "tripteri_user";
+    $pass = "24177";
+} else {
+    // use the development
+    $host = "localhost";
+    $user = "root";
+    $pass = "";
+}
+
 
 $db_name = "tripteri_data";
 
