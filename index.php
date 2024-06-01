@@ -103,7 +103,7 @@ session_start();
                     </div>
                 </div>
                 <div class="col-md-4 p-md-3 py-md-5 bg-white">
-                    <div class="img" data-aos="fade-up" data-aos-offset="0"><img loading="lazy" src="./images/11122020225224-the-cooperative-members-goes-to-Nemba-sector-for-observation-.original.jpg" alt="" class="w-100"></div>
+                    <div class="img" data-aos="fade-up" data-aos-offset="0"><img loading="lazy" src="./images/trip-well-being-competition.jpg" alt="" class="w-100"></div>
                 </div>
             </div>
         </div>
@@ -161,7 +161,7 @@ session_start();
 
                 <div class="image w-100 w-lg-50  position-relative">
                     <div class="bg-overly"> </div>
-                    <img src="/images/bizimana venuste inspecting pigs.jpg" class="w-100" alt="BIZIMANA Venuste a TRIP Officer inspecting pigs" srcset="">
+                    <img src="/images/revived banana plants.jpg" class="w-100" alt="BIZIMANA Venuste a TRIP Officer inspecting pigs" srcset="">
                 </div>
                 <div class="text px-4 py-3 w-100 w-lg-50">
                     <h2 class="main-title text-primary">Our Impacts</h2>
