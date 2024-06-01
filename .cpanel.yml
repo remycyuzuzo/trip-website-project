@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home2/tripterimbere/public_html/
-    - /bin/cp -R /home2/tripterimbere/repositories/trip-website-project/ $DEPLOYPATH
+    - /bin/cp -R /home2/tripterimbere/repositories/trip-website-project/* $DEPLOYPATH
