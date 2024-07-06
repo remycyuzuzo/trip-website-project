@@ -92,14 +92,14 @@ session_start();
         <div class="row bg-white">
           <div class="col-md-8 p-md-0 bg-white">
             <div class="p-md-5 h-100 d-flex flex-column justify-content-center">
-              <h3 data-aos="fade-up">ORGANIZATION STRACTURE</h3>
+              <h3 data-aos="fade-up">ORGANIZATION STRUCTURE</h3>
 
 
               <p data-aos="fade-up" data-aos-offset="0">
                 Organization is made of four Organs:<br><br>
-                1. The General Assembly; <br>
-                2. The Executive Committee; <br>
-                3. Audit Committee; <br>
+                1. The General Assembly, <br>
+                2. The Executive Committee, <br>
+                3. Audit Committee, <br>
                 4. Conflict Resolution Committee. <br>
               </p>
 
@@ -108,7 +108,7 @@ session_start();
                 <b style="border-bottom: solid green 1px;">1. General Assembly (GA): </b><br> General Assembly is the supreme organ of the organization. It is composed of all full members of the organization and adherent members.
                 The honorary members can attend the meeting of the organization and express opinions, but they have no right to vote or to be voted. <br><br>
 
-                <strong> Ordinary General Assembly: </strong><br>
+                <strong>Ordinary General Assembly: </strong><br>
                 The General Assembly debates on: <br>
                 1. The election and removal of the members of the organization that are the <strong> executive committee</strong>, the supervisory committee and the arbitration commmittee; <br>
 

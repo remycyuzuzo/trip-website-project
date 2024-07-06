@@ -61,7 +61,7 @@
                                     <div class="content">
                                         <h1 class="main-title">Who we are</h1>
                                         <p class="text-description pt-3">
-                                            <strong>TRIP</strong> (Terimbere Rural Integrated Partnership) is a non-governmental Organization initiated by independent actors of development committed to fight against poverty and ensure Human Security in rural areas.
+                                            <strong>TRIP</strong> (Terimbere Rural Integrated Partnership) is a non-governmental Organization initiated by independent actors of development, committed to contribute to  poverty eradication  and to holistic rural development.   
                                         </p>
                                     </div>
                                 </div>
@@ -79,13 +79,13 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6">
-                        <p class="mb-3"><strong>We aim to strengthen cooperation and Partnership</strong> in rural development, We recognize that partnership among people is strongly needed to achieve sustainable development. TRIP delivers its activities through organized groups of people united together to develop themselves.</p>
+                        <p class="mb-3"><strong>We aim to strengthen cooperation and Partnership</strong> for rural development, We recognize that partnership among people is strongly needed to achieve sustainable development. TRIP delivers its activities through organized groups of the community working together for their self-development . </p>
                     </div>
                     <div class="col-md-6">
                         <figure>
                             <img src="/images/pictures/images/trip-school-visit.jpg" alt="TRIP recognizes agri-culture as a way to the development">
                             <figcaption>
-                                TRIP recognize agriculture as a potential way to eradicate poverty in Rwandan rural areas
+                                TRIP believes that agriculture and its value chains and a principal  way to eradicate poverty in rural areas                            
                             </figcaption>
                         </figure>
                     </div>
