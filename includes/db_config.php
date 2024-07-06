@@ -1,14 +1,14 @@
 <?php
 
 
-    // $host = "localhost";
-    // $user = "tripteri_user";
-    // $pass = "24177";
+    $host = "localhost";
+    $user = "tripteri_user";
+    $pass = "24177";
 
     // use the development
-    $host = "localhost";
-    $user = "root";
-    $pass = "";
+    // $host = "localhost";
+    // $user = "root";
+    // $pass = "";
 
 
 

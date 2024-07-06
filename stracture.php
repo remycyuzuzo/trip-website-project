@@ -142,7 +142,7 @@ session_start();
                 <b style="border-bottom: solid green 1px;">4. Conflict Resolution Committee </b><br><br>
                 The <strong> Arbitration Committee </strong> is an organ in charge of conflict resolution is composed of at least three (3) members of the organization, elected by the General Assembly. The mandate of the committee is to settle amicably conflicts among members of the Organisation. The Committee itself elects the President and the secretary, and defines the modalities of its functioning for renewable term of 5 years. <br> <br>
 
-                In any case, The parties involced in a conflict within the organisation are required to apply first to the Organ in charge of the Confict Resolution before submitting the case to the competent court. <br>
+                In any case, The parties involved in a conflict within the organisation are required to apply first to the Organ in charge of the Confict Resolution before submitting the case to the competent court. <br>
 
                 Any conflict within the Organization shall be settled amicably between the concerneed parties. In case the concerned parties fail to settle conflict amicably, they shall refer to the committee in charge of conflict resolution. <br>
 
