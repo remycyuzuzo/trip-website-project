@@ -26,7 +26,7 @@ include "includes/db_config.php";
                         </a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item nav-link" href="/who-we-are.php"> About Organization</a>
-                            <a class="dropdown-item nav-link" href="/stracture.php"> Organization stracture</a>
+                            <a class="dropdown-item nav-link" href="/stracture.php"> Organization structure</a>
                             <a class="dropdown-item nav-link" href="media/depliant.pdf" target="_blank"> TRIP Depliant</a>
                             <a class="dropdown-item nav-link" href="/article.php?article_id=14">Certificate of Legal Personality</a>
 
