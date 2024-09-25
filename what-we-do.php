@@ -51,7 +51,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-md-10">
                         <p class="text-center text-description pt-3">
-                            <span class="text-success">TRIP organization</span> contributes to the holistic development of citizens living in its intervention zones, by helping them to eradicate poverty and all of its consequences.
+                            <span class="text-success">TRIP organization</span> contributes to the holistic development of citizens living in its intervention zones, by helping them eradicate poverty and all of effects
                         </p>
                     </div>
                 </div>
@@ -68,9 +68,9 @@
                                 <div class="col-md-8 text-justify">
                                     <h3 class="py-3 px-lg-4 text-center">human Security</h3>
                                     <p class="px-lg-4">
-                                        TRIP helps people living in rural areas by assisting them to do the benefitable agriculture. The organization helpes people to shift from traditional agriculture which gives them limited and insufficient production to modern agriculture which gives enough production for consumption and earning money.
-                                    </p>
-                                    <p class="px-lg-4">Our organization trains people how to fight against child malnutrition which hinders the childhood development. TRIP urges people to plant and maintain food resources, now people are trained on how to fight against malnutritional related diseases.</p>
+                                        TRIP helps people living in rural areas by assisting them to practice modern agriculture. The organization helps people to shift from traditional agriculture, which gives them limited and insufficient production to modern agriculture which gives enough production for consumption and earning money.                                      </p>
+                                    <p class="px-lg-4">
+                                        Our organization trains its stakeholders-beneficiaries to fight against child malnutrition which hinders childhood development. Beneficiaries of TRIP are trained to create kitchen gardens containing a variety of vegetables and fruits serving rich and consistent nutrition for especially children and pregnant females.                                      </p>
                                     <p class="m-0 px-lg-4"><strong>To increase food security, improve maternal and child nutrition and enhance household incomes</strong>
 
                                     <ul class="pl-2 pl-md-5">
@@ -100,9 +100,7 @@
                                         <img src="/images/pictures/images/vegetables-farm-fresh-food.jpg" class="aspect1-1 figure-img img-fluid rounded" alt="">
                                     </figure>
                                 </div>
-                                <div class="col-12">
-                                    Our organization trains people how to fight against child malnutrition which hinders the childhood development. TRIP urges people to plant and maintain food resources, now people are trained on how to fight against malnutritional related diseases.
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -110,8 +108,7 @@
             </div>
             <div id="education-sector">
                 <div class="container">
-                    To promote the local, national and regional market in order to generate monetary income at the household level of the target groups.
-                </div>
+                To promote the local, national and regional market in order to generate monetary income at the household level of the target groups.                </div>
             </div>
         </section>
 
