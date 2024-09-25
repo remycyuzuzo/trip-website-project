@@ -1,5 +1,5 @@
 <?php
-include '../config.php';
+include 'config.php';
 
 if ($root === "/home2/tripterimbere/public_html/") {
     $host = "localhost";
