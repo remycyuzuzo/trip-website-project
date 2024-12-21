@@ -127,7 +127,7 @@
                     </div>
 
                     <section>
-                        <h2>Deadline for Application: December 30th, 2025</h2>
+                        <h2>Deadline for Application: December 30th, 2024</h2>
                         <p>
                             Terimbere Rural Integrated Partnership “TRIP” (<a href="http://www.trip-terimbere.org" target="_blank">www.trip-terimbere.org</a>) is a Non-Governmental Organization created in 2018 with the main purpose to eradicate poverty, contribute to socio-economic resilience, and promote the health and wellness of communities living in rural areas.
                         </p>
