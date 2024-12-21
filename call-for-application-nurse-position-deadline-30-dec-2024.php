@@ -5,12 +5,12 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>TRIP | What We Do</title>
+    <title>TRIP | Call for application, Nurse position (deadline 30-Dec-2024)</title>
     <meta content="" name="description" />
     <meta content="" name="keywords" />
-    <link rel="apple-touch-icon" href="/images/trip favicon 256x256.png">
-    <link rel="canonical" href="https://www.trip-terimbere.org/what-we-do">
-    <link rel="shortcut icon" href="/images/trip favicon 256x256.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/images/trip logo 2.jpg">
+    <link rel="canonical" href="https://www.trip-terimbere.org/call-for-application-nurse-position-deadline-30-dec-2024.php">
+    <link rel="shortcut icon" href="/images/trip logo 2.jpg" type="image/x-icon">
     <!--    bootstrap-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <!--    font awesome-->
@@ -113,7 +113,7 @@
                 <div id="food-security" class="mb-3">
 
                     <section>
-                        <h1 class="text-center">Recruitment Call for Nurse Position</h1>
+                        <h1 class="text-center">Recruitment Call for a Nurse Position</h1>
                     </section>
 
                     <div class="buttons">
@@ -156,7 +156,7 @@
                             <li>A motivation letter.</li>
                         </ul>
                         <p>
-                            Applications should be submitted to the email address of TRIP: <a href="mailto:contact@trip-terimbere.org">contact@trip-terimbere.org</a> not later than Friday, December 30th, 2024.
+                            Applications should be submitted to the email address of TRIP: <a href="mailto:contact@trip-terimbere.org">contact@trip-terimbere.org</a> not later than Monday, December 30th, 2024.
                         </p>
                         <p>
                             Note: Only selected candidates will be contacted for an interview.
