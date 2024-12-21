@@ -33,6 +33,7 @@ include "includes/db_config.php";
                             <a class="dropdown-item nav-link" href="/members.php"> Organization Board Members</a>
 
                             <a class="dropdown-item nav-link" href="/our-impact"> Our Impact</a>
+                            <a class="dropdown-item nav-link" href="/careers.php"> Careers</a>
                         </div>
                     </li>
                     <!--intro video-->
